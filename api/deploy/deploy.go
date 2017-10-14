@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"github.com/ieee0824/errors"
-	"github.com/ieee0824/pnzr-web/lib/config"
+	"github.com/ieee0824/pnzr-web-api/lib/config"
 	"github.com/jobtalk/pnzr/api"
 	"github.com/jobtalk/pnzr/lib/setting/v1"
 	"io/ioutil"

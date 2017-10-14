@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/ieee0824/pnzr-web/lib/config"
-	"github.com/ieee0824/pnzr-web/api/deploy"
+	"github.com/ieee0824/pnzr-web-api/lib/config"
+	"github.com/ieee0824/pnzr-web-api/api/deploy"
 )
 
 func main() {
